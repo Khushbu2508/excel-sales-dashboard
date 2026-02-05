@@ -1,6 +1,7 @@
 Sales Analysis Dashboard
 
 Project Overview
+
 An interactive Coffee Shop Sales Dashboard built to analyze sales performance, customer behavior, and product trends using data visualization.
 This project helps stakeholders quickly understand revenue, footfall, order patterns, and best-selling products.
 
