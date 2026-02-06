@@ -40,5 +40,5 @@ Product and category performance
 
 **Dashboard Screenshot**
 
-![Sales Analysis Dashboard](https://github.com/Khushbu2508/excel-sales-dashboard/blob/main/Dashboard.png))
+![Sales Analysis Dashboard](https://github.com/Khushbu2508/excel-sales-dashboard/blob/main/Dashboard.png)
 
