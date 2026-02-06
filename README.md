@@ -1,6 +1,6 @@
-Sales Analysis Dashboard
+***Sales Analysis Dashboard***
 
-Project Overview
+**Project Overview**
 
 An interactive Coffee Shop Sales Dashboard built to analyze sales performance, customer behavior, and product trends using data visualization.
 This project helps stakeholders quickly understand revenue, footfall, order patterns, and best-selling products.
@@ -38,7 +38,7 @@ Total Sales,Total Footfall,Average Bill per Person,Average Orders per Person
 Sales trends by hour, day, month, and store location
 Product and category performance
 
-## 📷 Dashboard Screenshot
+**Dashboard Screenshot**
 
-![Sales Analysis Dashboard](images/dashboard.png)
+![Sales Analysis Dashboard](https://github.com/Khushbu2508/excel-sales-dashboard/blob/main/Dashboard.png))
 
