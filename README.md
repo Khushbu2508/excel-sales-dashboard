@@ -7,18 +7,18 @@ This project helps stakeholders quickly understand revenue, footfall, order patt
 
 Key Features -
 - KPIs: 
-- Total Sales
-- Total Footfall
-- Average Bill 
-- Person
-- Average Order/ Person
+-  Total Sales
+-  Total Footfall
+-  Average Bill 
+-  Person
+-  Average Order/ Person
 
-  Time-Based Analysis:
+Time-Based Analysis:
 -  Quantity ordered by hour of the day
 -  Orders distribution across weekdays
 -  Filters for Month Name and Day Name
 
-  Product & Category Insights:
+Product & Category Insights:
 -  Category-wise sales percentage distribution
 -  Size-wise order distribution (Small, Regular, Large)
 -  Top 5 products based on sales revenue
@@ -33,7 +33,6 @@ Tools & Technologies Used-
 -  Power Query (optional): For preprocessing data
 
 Dashboard Overview-
-
 The dashboard provides insights into -
 Total Sales,Total Footfall,Average Bill per Person,Average Orders per Person
 Sales trends by hour, day, month, and store location
