@@ -7,11 +7,11 @@ This project helps stakeholders quickly understand revenue, footfall, order patt
 
 Key Features -
 KPIs: 
--**Total Sales
--**Total Footfall
--**Average Bill 
--**Person
--**Average Order/ Person
+- Total Sales
+- Total Footfall
+- Average Bill 
+- Person
+- Average Order/ Person
 
 Time-Based Analysis:
 Quantity ordered by hour of the day
@@ -30,6 +30,7 @@ Charts & Graphs
 Slicers for interactivity
 Data cleaning & transformation
 Data Analysis & Visualization Techniques
+Power Query (optional): For preprocessing data
 
 Dashboard Overview-
 
