@@ -38,3 +38,7 @@ Total Sales,Total Footfall,Average Bill per Person,Average Orders per Person
 Sales trends by hour, day, month, and store location
 Product and category performance
 
+## 📷 Dashboard Screenshot
+
+![Sales Analysis Dashboard](images/dashboard.png)
+
